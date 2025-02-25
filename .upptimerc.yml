@@ -29,7 +29,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime**是一个开源的正常运行时间监控和状态页面，完全由GitHub提供支持。"
-  introMessage: 这是一个示例状态页面，使用我们[GitHub存储库]中的**实时**数据(https://github.com/upptime/upptime). 无需服务器，只需GitHub操作、问题和页面。[**免费获得自己的**](https://github.com/upptime/upptime)
+  introMessage: 这是一个示例状态页面，使用我们[GitHub存储库](https://github.com/gyyst/upptime/)中的**实时**数据. 无需服务器，只需GitHub操作、问题和页面。[**免费获得自己的**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
