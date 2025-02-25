@@ -56,9 +56,9 @@ i18n:
   pastIncidents: 过去的事件
   pastIncidentsResolved: POSTS 个问题在MINUTES 分钟内得到解决
   liveStatus: 实时状态
-  overallUptime: "总体正常运行时间： UPTIME"
+  overallUptime: 总体正常运行时间:UPTIME
   overallUptimeTitle: 总体正常运行时间
-  averageResponseTime: "平均响应时间(ms):"
+  averageResponseTime: 平均响应时间(ms):
   averageResponseTimeTitle: 平均响应时间
   sevelDayResponseTime: 7 天响应时间
   responseTimeMs: 响应时间（毫秒）
