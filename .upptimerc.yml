@@ -38,5 +38,66 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
-
+i18n:
+  activeIncidents: 活跃事件
+  allSystemsOperational: 所有系统运行正常
+  incidentReport: 事件 #$NUMBER 报告 →
+  activeIncidentSummary: 于 $DATE 开启，已有 $POSTS 条帖子
+  incidentTitle: 事件 $NUMBER 详情
+  incidentDetails: 事件详情
+  incidentFixed: 已修复
+  incidentOngoing: 进行中
+  incidentOpenedAt: 开启时间
+  incidentClosedAt: 关闭时间
+  incidentViewOnGitHub: 在 GitHub 上查看并订阅
+  incidentCommentSummary: 由 $AUTHOR 发布于 $DATE
+  incidentBack: ← 返回所有事件
+  pastIncidents: 历史事件
+  pastIncidentsResolved: 于 $MINUTES 分钟内解决，共 $POSTS 条帖子
+  liveStatus: 实时状态
+  overallUptime: 总体正常运行时间：$UPTIME
+  overallUptimeTitle: 总体正常运行时间
+  averageResponseTime: 平均响应时间：$TIME 毫秒
+  averageResponseTimeTitle: 平均响应时间
+  sevelDayResponseTime: 7 天响应时间
+  responseTimeMs: 响应时间（毫秒）
+  up: 正常
+  down: 故障
+  degraded: 降级
+  ms: 毫秒
+  loading: 加载中
+  navGitHub: GitHub
+  footer: 本页面是 [开源项目]($REPO)，由 [Upptime](https://upptime.js.org) 驱动
+  rateLimitExceededTitle: 超出速率限制
+  rateLimitExceededIntro: 您已超过每小时请求上限，需等待后再次访问。或可添加 GitHub 个人访问令牌以继续使用。
+  rateLimitExceededWhatDoesErrorMean: 此错误含义是什么？
+  rateLimitExceededErrorMeaning: 本网站通过 GitHub API 获取实时状态数据。默认每小时每个 IP 限 60 次请求，您已触发限制。
+  rateLimitExceededErrorHowCanFix: 如何解决？
+  rateLimitExceededErrorFix: 等待一小时后限制重置，或添加个人访问令牌以获得额外 5000 次/小时的请求额度。
+  rateLimitExceededGeneratePAT: 了解如何生成个人访问令牌
+  rateLimitExceededHasSet: 您已设置个人访问令牌。
+  rateLimitExceededRemoveToken: 移除令牌
+  rateLimitExceededGitHubPAT: GitHub 个人访问令牌
+  rateLimitExceededCopyPastePAT: 粘贴您的令牌
+  rateLimitExceededSaveToken: 保存令牌
+  errorTitle: 发生错误
+  errorIntro: 获取最新状态时发生错误。
+  errorText: 请稍后重试。
+  errorHome: 返回首页
+  pastScheduledMaintenance: 历史计划维护
+  scheduledMaintenance: 计划维护
+  scheduledMaintenanceSummaryStarted: 已于 $DATE 开始，持续 $DURATION 分钟
+  scheduledMaintenanceSummaryStarts: 将于 $DATE 开始，持续 $DURATION 分钟
+  startedAt: 开始时间
+  startsAt: 计划开始时间
+  duration: 持续时间
+  durationMin: $DURATION 分钟
+  incidentCompleted: 已完成
+  incidentScheduled: 计划中
+  duration24H: 24 小时
+  duration7D: 7 天
+  duration30D: 30 天
+  duration1Y: 1 年
+  durationAll: 全部
+  locale: zh-CN
 
