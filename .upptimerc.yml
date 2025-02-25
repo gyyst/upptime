@@ -62,7 +62,7 @@ i18n:
   averageResponseTimeTitle: 平均响应时间
   sevelDayResponseTime: 7 天响应时间
   responseTimeMs: 响应时间（毫秒）
-  ms: ms
+  ms: 毫秒
   loading: 加载中
   navGitHub: GitHub
   footer: gyyst保留所有权利。 Copyright © 2025 gyyst. All Rights Reserved.
