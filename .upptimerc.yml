@@ -3,8 +3,23 @@ owner: gyyst # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: nft5027
+    url: https://nft5027.crontab.rr.nu/
+  - name: nft8gq185
+    url: https://nft8gq185.crontab.rr.nu/
+  - name: cmo13698
+    url: https://cmo13698.crontab.rr.nu/
+  - name: hpzjajxgbn
+    url: https://hpzjajxgbn.crontab.rr.nu/
+  - name: pynppotvz
+    url: https://pynppotvz.crontab.rr.nu/
+  - name: nblrxbwpic
+    url: https://nblrxbwpic.crontab.rr.nu/
+  - name: yrqlrgt
+    url: https://yrqlrgt.crontab.rr.nu/
+  - name: gryfaem
+    url: https://gryfaem.crontab.rr.nu/
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
