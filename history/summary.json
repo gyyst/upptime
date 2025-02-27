@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cmo13698.crontab.rr.nu.ico",
     "slug": "cmo13698",
     "status": "down",
-    "uptime": "97.36%",
-    "uptimeDay": "94.35%",
-    "uptimeWeek": "97.36%",
-    "uptimeMonth": "97.36%",
-    "uptimeYear": "97.36%",
+    "uptime": "97.17%",
+    "uptimeDay": "93.93%",
+    "uptimeWeek": "97.17%",
+    "uptimeMonth": "97.17%",
+    "uptimeYear": "97.17%",
     "time": 825,
     "timeDay": 847,
     "timeWeek": 825,
     "timeMonth": 825,
     "timeYear": 825,
     "dailyMinutesDown": {
-      "2025-02-27": 81
+      "2025-02-27": 87
     }
   },
   {
@@ -63,18 +63,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/hpzjajxgbn.crontab.rr.nu.ico",
     "slug": "hpzjajxgbn",
     "status": "down",
-    "uptime": "97.73%",
-    "uptimeDay": "95.15%",
-    "uptimeWeek": "97.73%",
-    "uptimeMonth": "97.73%",
-    "uptimeYear": "97.73%",
+    "uptime": "97.54%",
+    "uptimeDay": "94.74%",
+    "uptimeWeek": "97.54%",
+    "uptimeMonth": "97.54%",
+    "uptimeYear": "97.54%",
     "time": 2142,
     "timeDay": 7947,
     "timeWeek": 2142,
     "timeMonth": 2142,
     "timeYear": 2142,
     "dailyMinutesDown": {
-      "2025-02-27": 70
+      "2025-02-27": 76
     }
   },
   {
@@ -83,18 +83,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pynppotvz.crontab.rr.nu.ico",
     "slug": "pynppotvz",
     "status": "down",
-    "uptime": "97.39%",
-    "uptimeDay": "94.42%",
-    "uptimeWeek": "97.39%",
-    "uptimeMonth": "97.39%",
-    "uptimeYear": "97.39%",
+    "uptime": "97.20%",
+    "uptimeDay": "94.01%",
+    "uptimeWeek": "97.20%",
+    "uptimeMonth": "97.20%",
+    "uptimeYear": "97.20%",
     "time": 703,
     "timeDay": 789,
     "timeWeek": 703,
     "timeMonth": 703,
     "timeYear": 703,
     "dailyMinutesDown": {
-      "2025-02-27": 80
+      "2025-02-27": 86
     }
   },
   {
@@ -102,9 +102,9 @@
     "url": "https://nblrxbwpic.crontab.rr.nu/",
     "icon": "https://icons.duckduckgo.com/ip3/nblrxbwpic.crontab.rr.nu.ico",
     "slug": "nblrxbwpic",
-    "status": "up",
+    "status": "down",
     "uptime": "97.41%",
-    "uptimeDay": "94.46%",
+    "uptimeDay": "94.45%",
     "uptimeWeek": "97.41%",
     "uptimeMonth": "97.41%",
     "uptimeYear": "97.41%",
