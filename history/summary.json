@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/nft8gq185.crontab.rr.nu.ico",
     "slug": "nft8gq185",
     "status": "up",
-    "uptime": "99.14%",
+    "uptime": "99.16%",
     "uptimeDay": "98.21%",
-    "uptimeWeek": "99.14%",
-    "uptimeMonth": "99.14%",
-    "uptimeYear": "99.14%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "99.16%",
+    "uptimeYear": "99.16%",
     "time": 735,
     "timeDay": 613,
     "timeWeek": 735,
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cmo13698.crontab.rr.nu.ico",
     "slug": "cmo13698",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptime": "98.08%",
+    "uptimeDay": "95.93%",
+    "uptimeWeek": "98.08%",
+    "uptimeMonth": "98.08%",
+    "uptimeYear": "98.08%",
     "time": 825,
     "timeDay": 847,
     "timeWeek": 825,
     "timeMonth": 825,
     "timeYear": 825,
     "dailyMinutesDown": {
-      "2025-02-27": 2
+      "2025-02-27": 59
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://hpzjajxgbn.crontab.rr.nu/",
     "icon": "https://icons.duckduckgo.com/ip3/hpzjajxgbn.crontab.rr.nu.ico",
     "slug": "hpzjajxgbn",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 671,
-    "timeDay": 520,
-    "timeWeek": 671,
-    "timeMonth": 671,
-    "timeYear": 671,
+    "status": "up",
+    "uptime": "98.14%",
+    "uptimeDay": "96.04%",
+    "uptimeWeek": "98.14%",
+    "uptimeMonth": "98.14%",
+    "uptimeYear": "98.14%",
+    "time": 2142,
+    "timeDay": 7947,
+    "timeWeek": 2142,
+    "timeMonth": 2142,
+    "timeYear": 2142,
     "dailyMinutesDown": {
-      "2025-02-27": 1
+      "2025-02-27": 57
     }
   },
   {
@@ -83,18 +83,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pynppotvz.crontab.rr.nu.ico",
     "slug": "pynppotvz",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "98.12%",
+    "uptimeDay": "96.00%",
+    "uptimeWeek": "98.12%",
+    "uptimeMonth": "98.12%",
+    "uptimeYear": "98.12%",
     "time": 703,
     "timeDay": 789,
     "timeWeek": 703,
     "timeMonth": 703,
     "timeYear": 703,
     "dailyMinutesDown": {
-      "2025-02-27": 1
+      "2025-02-27": 58
     }
   },
   {
@@ -103,18 +103,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/nblrxbwpic.crontab.rr.nu.ico",
     "slug": "nblrxbwpic",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.13%",
+    "uptimeDay": "96.04%",
+    "uptimeWeek": "98.13%",
+    "uptimeMonth": "98.13%",
+    "uptimeYear": "98.13%",
     "time": 682,
     "timeDay": 446,
     "timeWeek": 682,
     "timeMonth": 682,
     "timeYear": 682,
     "dailyMinutesDown": {
-      "2025-02-27": 0
+      "2025-02-27": 57
     }
   },
   {
