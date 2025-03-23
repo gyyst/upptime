@@ -44,11 +44,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cmo13698.crontab.rr.nu.ico",
     "slug": "cmo13698",
     "status": "up",
-    "uptime": "99.05%",
+    "uptime": "99.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.05%",
-    "uptimeYear": "99.05%",
+    "uptimeMonth": "99.08%",
+    "uptimeYear": "99.08%",
     "time": 787,
     "timeDay": 973,
     "timeWeek": 714,
@@ -85,11 +85,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/pynppotvz.crontab.rr.nu.ico",
     "slug": "pynppotvz",
     "status": "up",
-    "uptime": "99.72%",
+    "uptime": "99.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.72%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.73%",
     "time": 781,
     "timeDay": 593,
     "timeWeek": 899,
@@ -124,10 +124,10 @@
     "url": "https://yrqlrgt.crontab.rr.nu/",
     "icon": "https://icons.duckduckgo.com/ip3/yrqlrgt.crontab.rr.nu.ico",
     "slug": "yrqlrgt",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 686,
@@ -135,14 +135,16 @@
     "timeWeek": 807,
     "timeMonth": 686,
     "timeYear": 686,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-23": 1
+    }
   },
   {
     "name": "gryfaem",
     "url": "https://gryfaem.crontab.rr.nu/",
     "icon": "https://icons.duckduckgo.com/ip3/gryfaem.crontab.rr.nu.ico",
     "slug": "gryfaem",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -153,6 +155,8 @@
     "timeWeek": 829,
     "timeMonth": 779,
     "timeYear": 779,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-23": 0
+    }
   }
 ]
