@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nft5027.crontab.rr.nu.ico",
     "slug": "nft5027",
     "status": "down",
-    "uptime": "7.94%",
+    "uptime": "7.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -14,9 +14,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 907,
+    "timeYear": 874,
     "dailyMinutesDown": {
-      "2026-04-09": 105,
+      "2026-04-10": 117,
+      "2026-04-09": 1440,
       "2026-04-08": 1440,
       "2026-04-07": 1440,
       "2026-04-06": 1440,
@@ -379,8 +380,7 @@
       "2025-04-14": 1440,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
-      "2025-04-11": 1440,
-      "2025-04-10": 1440
+      "2025-04-11": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nft8gq185.crontab.rr.nu.ico",
     "slug": "nft8gq185",
     "status": "down",
-    "uptime": "8.23%",
+    "uptime": "8.21%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -398,9 +398,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 802,
+    "timeYear": 809,
     "dailyMinutesDown": {
-      "2026-04-09": 105,
+      "2026-04-10": 117,
+      "2026-04-09": 1440,
       "2026-04-08": 1440,
       "2026-04-07": 1440,
       "2026-04-06": 1440,
@@ -763,8 +764,7 @@
       "2025-04-14": 1440,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
-      "2025-04-11": 1440,
-      "2025-04-10": 1440
+      "2025-04-11": 1440
     }
   },
   {
@@ -773,7 +773,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cmo13698.crontab.rr.nu.ico",
     "slug": "cmo13698",
     "status": "down",
-    "uptime": "8.99%",
+    "uptime": "8.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -782,9 +782,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 786,
+    "timeYear": 796,
     "dailyMinutesDown": {
-      "2026-04-09": 105,
+      "2026-04-10": 117,
+      "2026-04-09": 1440,
       "2026-04-08": 1440,
       "2026-04-07": 1440,
       "2026-04-06": 1440,
@@ -1147,8 +1148,7 @@
       "2025-04-14": 1440,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
-      "2025-04-11": 1440,
-      "2025-04-10": 1440
+      "2025-04-11": 1440
     }
   },
   {
@@ -1157,7 +1157,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/hpzjajxgbn.crontab.rr.nu.ico",
     "slug": "hpzjajxgbn",
     "status": "down",
-    "uptime": "9.05%",
+    "uptime": "9.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1166,9 +1166,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 805,
+    "timeYear": 793,
     "dailyMinutesDown": {
-      "2026-04-09": 105,
+      "2026-04-10": 117,
+      "2026-04-09": 1440,
       "2026-04-08": 1440,
       "2026-04-07": 1440,
       "2026-04-06": 1440,
@@ -1531,8 +1532,7 @@
       "2025-04-14": 1440,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
-      "2025-04-11": 1440,
-      "2025-04-10": 1440
+      "2025-04-11": 1440
     }
   },
   {
@@ -1541,18 +1541,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pynppotvz.crontab.rr.nu.ico",
     "slug": "pynppotvz",
     "status": "down",
-    "uptime": "14.38%",
+    "uptime": "14.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "4.36%",
+    "uptimeYear": "4.09%",
     "time": 753,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 734,
+    "timeYear": 720,
     "dailyMinutesDown": {
-      "2026-04-09": 105,
+      "2026-04-10": 117,
+      "2026-04-09": 1440,
       "2026-04-08": 1440,
       "2026-04-07": 1440,
       "2026-04-06": 1440,
@@ -1911,18 +1912,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nblrxbwpic.crontab.rr.nu.ico",
     "slug": "nblrxbwpic",
     "status": "down",
-    "uptime": "14.38%",
+    "uptime": "14.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "4.36%",
+    "uptimeYear": "4.09%",
     "time": 1140,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 758,
+    "timeYear": 765,
     "dailyMinutesDown": {
-      "2026-04-09": 106,
+      "2026-04-10": 117,
+      "2026-04-09": 1440,
       "2026-04-08": 1440,
       "2026-04-07": 1440,
       "2026-04-06": 1440,
@@ -2281,7 +2283,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/yrqlrgt.crontab.rr.nu.ico",
     "slug": "yrqlrgt",
     "status": "down",
-    "uptime": "6.57%",
+    "uptime": "6.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2292,7 +2294,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-09": 106,
+      "2026-04-10": 117,
+      "2026-04-09": 1440,
       "2026-04-08": 1440,
       "2026-04-07": 1440,
       "2026-04-06": 1440,
@@ -2655,8 +2658,7 @@
       "2025-04-14": 1440,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
-      "2025-04-11": 1440,
-      "2025-04-10": 1440
+      "2025-04-11": 1440
     }
   },
   {
@@ -2665,7 +2667,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/gryfaem.crontab.rr.nu.ico",
     "slug": "gryfaem",
     "status": "down",
-    "uptime": "6.57%",
+    "uptime": "6.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2676,7 +2678,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-09": 106,
+      "2026-04-10": 117,
+      "2026-04-09": 1440,
       "2026-04-08": 1440,
       "2026-04-07": 1440,
       "2026-04-06": 1440,
@@ -3039,8 +3042,7 @@
       "2025-04-14": 1440,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
-      "2025-04-11": 1440,
-      "2025-04-10": 1440
+      "2025-04-11": 1440
     }
   }
 ]
